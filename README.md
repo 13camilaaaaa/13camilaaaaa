@@ -25,29 +25,13 @@ Actualmente, me enfoco en el desarrollo de aplicaciones web y soluciones de soft
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-
-### ⚙️ Backend
-- Java (POO)  
-- Node.js (básico)  
-
-### 🗄️ Bases de datos
-- SQL  
-- MySQL  
-
-### 🧪 QA & Testing
-- Pruebas funcionales  
-- Validación de sistemas  
-- Detección de errores  
-
-### 🛠️ Herramientas
-- Git / GitHub  
-- Metodologías ágiles (Scrum)  
-- Procedimientos TIC  
-- Soporte técnico  
+| Área | Tecnologías |
+|------|------------|
+| 💻 Frontend | ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript) |
+| ⚙️ Backend | ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java) ![Node](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) |
+| 🗄️ Bases de datos | ![SQL](https://img.shields.io/badge/SQL-gray?style=flat) ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql) |
+| 🧪 QA & Testing | Pruebas funcionales · Validación · Bug tracking |
+| 🛠️ Herramientas | ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github) Scrum · TIC · Soporte IT | 
 
 ---
 
