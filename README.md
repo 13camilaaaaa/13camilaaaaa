@@ -113,7 +113,7 @@ Donde pueda aportar mi enfoque integral en desarrollo, calidad de software y sop
 ## 📫 Contacto
 
 - 📧 Email: camilanavas13@gmail.com  
-- 💼 LinkedIn: (linkedin.com/in/camila-navas13)
-- 💻 GitHub: (https://github.com/13camilaaaaa)
+- 💼 LinkedIn: https://www.linkedin.com/in/camila-navas13
+- 💻 GitHub: https://github.com/13camilaaaaa
 
 ---
