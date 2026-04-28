@@ -1,12 +1,12 @@
-#                                                   María Camila Vesga Navas
+<h1 align="center">👩‍💻 María Camila Vesga Navas</h1>
 
-### Software Developer | QA Analyst | IT Support
+<h3 align="center">Software Developer | QA Analyst | IT Support</h3>
 
-> Construyendo soluciones de software con enfoque en calidad, soporte y mejora continua.
+<p align="center">
+  <em>Construyendo soluciones de software con enfoque en calidad, soporte y mejora continua.</em>
+</p>
 
 ---
-
-## 🔗 Conéctate conmigo
 
 <p align="center">
   <a href="https://linkedin.com/in/camila-navas13">
