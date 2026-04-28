@@ -1,4 +1,4 @@
-# 👩‍💻 María Camila Vesga Navas
+#                                                   María Camila Vesga Navas
 
 ### Software Developer | QA Analyst | IT Support
 
@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Conéctate conmigo
-[LinkedIn](linkedin.com/in/camila-navas13) • [Portafolio](#) • [Email](#)
+[LinkedIn](linkedin.com/in/camila-navas13)           •                [Portafolio](#)                 •                  [Email](#)
 
 ---
 
