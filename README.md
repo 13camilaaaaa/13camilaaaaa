@@ -1,40 +1,124 @@
-👨‍💻 Sobre mí
+# 👩‍💻 María Camila Vesga Navas
 
-Soy Tecnóloga en Análisis y Desarrollo de Software (SENA) con un perfil integral en desarrollo de software, soporte técnico y aseguramiento de calidad (QA).
+### Software Developer | QA Analyst | IT Support
 
-Mi experiencia profesional en el área de sistemas me ha permitido desenvolverme en entornos reales de TI, brindando soporte técnico, gestionando procedimientos TIC, apoyando procesos administrativos y participando activamente en el trabajo en equipo dentro de una empresa.
+> Construyendo soluciones de software con enfoque en calidad, soporte y mejora continua.
 
-Esta combinación me ha dado una visión más completa del ciclo de vida del software, entendiendo no solo cómo desarrollarlo, sino también cómo mantenerlo, validarlo y dar soporte en producción.
+---
 
-Actualmente, me enfoco en el desarrollo de aplicaciones web y soluciones de software utilizando tecnologías modernas del ecosistema JavaScript y Java, aplicando buenas prácticas de calidad y mantenibilidad.
+## 🔗 Conéctate conmigo
+[LinkedIn](linkedin.com/in/camila-navas13) • [Portafolio](#) • [Email](#)
 
-🛠️ Tech Stack
-Área	Tecnologías
-Frontend	HTML5, CSS3, JavaScript (ES6+)
-Backend	Node.js (básico), Java
-UI	Diseño responsivo, interfaces web
-Bases de datos	SQL / MySQL
-Lenguajes	Java (POO), JavaScript
-Herramientas	Git, GitHub
-QA	Pruebas funcionales básicas, validación de sistemas
-Soporte IT	Gestión de incidencias, mantenimiento básico, soporte técnico
-🧩 Enfoque profesional
+---
 
-Mi perfil se caracteriza por unir desarrollo con experiencia operativa en TI:
+## 👩‍💻 Sobre mí
 
-🔹 Mentalidad de soporte: entiendo cómo se comportan los sistemas en producción
-🔹 Enfoque QA: pienso en validación y errores desde el desarrollo
-🔹 Resolución de problemas: experiencia directa en incidencias reales
-🔹 Trabajo en equipo: colaboración en entornos administrativos y técnicos
-🔹 Adaptabilidad: participación en diferentes áreas dentro de sistemas
-💼 Experiencia destacada
+Soy Tecnóloga en Análisis y Desarrollo de Software (SENA) con un perfil integral en desarrollo de software, aseguramiento de calidad (QA) y soporte técnico IT.
 
-Auxiliar de Sistemas – ODIR CERTIFICACIONES S.A.S.
+Cuento con experiencia en el área de sistemas, donde he trabajado en entornos reales brindando soporte técnico, gestionando procedimientos TIC y participando en procesos administrativos, lo que me ha permitido fortalecer habilidades de trabajo en equipo y resolución de problemas.
 
-Soporte técnico a usuarios y equipos
-Gestión de procedimientos TIC y mantenimiento básico de sistemas
-Participación en desarrollo de aplicaciones internas
-Ejecución de pruebas funcionales (QA Testing) en aplicaciones internas y externas
-Apoyo en procesos administrativos del área de sistemas
-Trabajo colaborativo en equipo multidisciplinario
-🚀 Proyectos destacados
+Mi enfoque profesional combina el desarrollo de aplicaciones con la validación de calidad y el soporte en producción, entendiendo el ciclo completo del software: desde su construcción hasta su mantenimiento y mejora continua.
+
+Actualmente, me enfoco en el desarrollo de aplicaciones web y soluciones de software utilizando JavaScript y Java, aplicando buenas prácticas de calidad, organización y mantenibilidad.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+
+### ⚙️ Backend
+- Java (POO)  
+- Node.js (básico)  
+
+### 🗄️ Bases de datos
+- SQL  
+- MySQL  
+
+### 🧪 QA & Testing
+- Pruebas funcionales  
+- Validación de sistemas  
+- Detección de errores  
+
+### 🛠️ Herramientas
+- Git / GitHub  
+- Metodologías ágiles (Scrum)  
+- Procedimientos TIC  
+- Soporte técnico  
+
+---
+
+## 🧩 Enfoque Profesional
+
+### 🔹 Mentalidad de soporte
+Comprendo cómo funcionan los sistemas en producción y cómo resolver incidencias de manera eficiente.
+
+### 🔹 Enfoque en calidad (QA)
+Aplico validaciones y pruebas desde el desarrollo para prevenir errores.
+
+### 🔹 Desarrollo estructurado
+Construyo soluciones claras, mantenibles y orientadas a buenas prácticas.
+
+### 🔹 Trabajo en equipo
+Experiencia colaborando en entornos técnicos y administrativos dentro de organizaciones.
+
+---
+
+## 💼 Experiencia
+
+### 🏢 Auxiliar de Sistemas – ODIR CERTIFICACIONES S.A.S.
+
+- Soporte técnico a usuarios y equipos  
+- Gestión de procedimientos TIC  
+- Mantenimiento básico de sistemas  
+- Desarrollo de aplicativos internos  
+- Ejecución de pruebas funcionales (QA Testing)  
+- Apoyo en procesos administrativos del área de sistemas  
+- Trabajo en equipo en entorno organizacional  
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 📦 Sistema de Gestión de Inventario
+Aplicación de escritorio desarrollada en Java (Swing) para un local de ropa.
+
+- Control y gestión de productos  
+- Organización de inventario  
+- Manejo de datos estructurados  
+- Aplicación de Programación Orientada a Objetos  
+
+---
+
+### 🌐 Aplicación Web de Gestión
+Desarrollo de aplicación web con HTML, CSS y JavaScript.
+
+- Interfaz dinámica y responsive  
+- Manejo de información  
+- Enfoque en experiencia de usuario  
+- Estructuración frontend  
+
+---
+
+## 🎯 Objetivo Profesional
+
+Busco oportunidades como:
+- Desarrolladora de Software Junior  
+- Frontend Developer  
+- QA Analyst  
+- Soporte IT  
+
+Donde pueda aportar mi enfoque integral en desarrollo, calidad de software y soporte técnico.
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: camilanavas13@gmail.com  
+- 💼 LinkedIn: (linkedin.com/in/camila-navas13)
+- 💻 GitHub: (https://github.com/13camilaaaaa)
+
+---
