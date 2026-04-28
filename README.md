@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 María Camila Vesga Navas</h1>
+<h1 align="center"> María Camila Vesga Navas</h1>
 
 <h3 align="center">Software Developer | QA Analyst | IT Support</h3>
 
