@@ -9,9 +9,15 @@
 ## 🔗 Conéctate conmigo
 
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/camila-navas13)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-black?style=for-the-badge&logo=vercel)](#)
-[![Email](https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail)](mailto: camilanavas250@hotmail.com)
+  <a href="https://linkedin.com/in/camila-navas13">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portafolio-Web-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:camilanavas13@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
